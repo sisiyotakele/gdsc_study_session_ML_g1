@@ -85,7 +85,7 @@ fake_news_model.keras
 1. Clone the repository:
 
 ```
-git clone https://github.com/mosisafeyissa/fake-news-detection.git
+git clone https://github.com/sisiyotakele/fake-news-detection.git
 ```
 
 2. Install dependencies:
